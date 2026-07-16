@@ -1,0 +1,117 @@
+name: FBS S&C Verification
+
+on:
+  schedule:
+    - cron: '17 5 * * 0'
+    - cron: '17 6 * * 0'
+  workflow_dispatch:
+    inputs:
+      force_track_b:
+        description: 'Force a specific Track B slice (week1-week6). Leave blank for auto.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      proceed:  ${{ steps.check.outputs.proceed }}
+      track_b:  ${{ steps.check.outputs.track_b }}
+      carousel: ${{ steps.check.outputs.carousel }}
+    steps:
+      - id: check
+        shell: bash
+        run: |
+          LOCAL_H=$(TZ=America/Chicago date +%H)
+          LOCAL_DOW=$(TZ=America/Chicago date +%u)
+          MONTH=$(TZ=America/Chicago date +%m)
+          WEEK=$(TZ=America/Chicago date +%V)
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "proceed=true" >> $GITHUB_OUTPUT
+          elif [ "$LOCAL_DOW" = "7" ] && [ "$LOCAL_H" = "00" ]; then
+            echo "proceed=true" >> $GITHUB_OUTPUT
+          else
+            echo "Wrong DST twin - skipping."
+            echo "proceed=false" >> $GITHUB_OUTPUT
+          fi
+
+          if [ "$MONTH" = "12" ] || [ "$MONTH" = "01" ] || [ "$MONTH" = "02" ]; then
+            echo "carousel=true" >> $GITHUB_OUTPUT
+          else
+            echo "carousel=false" >> $GITHUB_OUTPUT
+          fi
+
+          FORCED="${{ github.event.inputs.force_track_b }}"
+          if [ -n "$FORCED" ]; then
+            echo "track_b=$FORCED" >> $GITHUB_OUTPUT
+          else
+            echo "track_b=week$(( (10#$WEEK % 6) + 1 ))" >> $GITHUB_OUTPUT
+          fi
+
+  track_a_churn:
+    needs: gate
+    if: needs.gate.outputs.proceed == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+
+      - name: Diff staff-directory names
+        env:
+          SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
+        run: python scripts/churn_sentinel.py --all --out data/churn_$(date +%Y%m%d).json
+
+      - name: Propagate departures
+        run: python scripts/propagate_departures.py --in data/churn_$(date +%Y%m%d).json
+
+      - name: Decay stale confidence
+        run: python scripts/decay_confidence.py --max-age-days 180
+
+      - name: Commit results
+        run: |
+          git config user.name  "fbs-sc-bot"
+          git config user.email "actions@github.com"
+          git add -A data/
+          git diff --staged --quiet || git commit -m "Track A $(date +%F)"
+          git push
+
+  track_b_deep:
+    needs: [gate, track_a_churn]
+    if: needs.gate.outputs.proceed == 'true' && needs.gate.outputs.carousel == 'false'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+
+      - name: Enforce name gate
+        run: python scripts/enforce_name_gate.py --strict
+
+      - name: Run rotation slice
+        env:
+          SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
+        run: |
+          python scripts/deep_verify.py \
+            --slice ${{ needs.gate.outputs.track_b }} \
+            --config config/rotation.yml \
+            --out data/deep_${{ needs.gate.outputs.track_b }}_$(date +%Y%m%d).json
+
+      - name: Rebuild dashboard
+        run: python scripts/dashboard.py --confirmed-only --out docs/index.html
+
+      - name: Commit results
+        run: |
+          git config user.name  "fbs-sc-bot"
+          git config user.email "actions@github.com"
+          git add -A data/ docs/
+          git diff --staged --quiet || git commit -m "Track B ${{ needs.gate.outputs.track_b }} $(date +%F)"
+          git push
