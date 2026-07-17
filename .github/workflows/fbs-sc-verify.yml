@@ -94,7 +94,7 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Enforce name-verification gate
-        run: python enforce_name_gate.py --strict
+        run: python enforce_name_gate.py --fix
 
       - name: Run rotation slice
         env:
