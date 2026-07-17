@@ -2,59 +2,231 @@
   "date": "2026-07-17",
   "changes": [
     {
+      "school": "Alabama",
+      "old_name": "South Alabama Football",
+      "new_name": "Freddie Roach Added",
+      "conf": "SEC",
+      "row_idx": 4,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "LSU",
+      "old_name": "Brian Kelly",
+      "new_name": "Jake Flint",
+      "conf": "SEC",
+      "row_idx": 10,
+      "date": "2026-07-17"
+    },
+    {
       "school": "South Carolina",
-      "old_name": "Luke Day",
-      "new_name": "Jeff Dillman",
+      "old_name": "Jeff Dillman",
+      "new_name": "South Carolina",
       "conf": "SEC",
       "row_idx": 14,
       "date": "2026-07-17"
     },
     {
-      "school": "Penn State",
-      "old_name": "Unknown",
-      "new_name": "Nittany Lions",
+      "school": "Indiana",
+      "old_name": "Colorado State",
+      "new_name": "Tyson Brown",
       "conf": "Big Ten",
-      "row_idx": 28,
+      "row_idx": 19,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Maryland",
+      "old_name": "Adam Rittenberg",
+      "new_name": "Colorado State",
+      "conf": "Big Ten",
+      "row_idx": 21,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Michigan State",
+      "old_name": "Shaquille Lee",
+      "new_name": "Michigan State",
+      "conf": "Big Ten",
+      "row_idx": 23,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "USC",
+      "old_name": "Southern University",
+      "new_name": "Cougars Director",
+      "conf": "Big Ten",
+      "row_idx": 32,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Washington",
+      "old_name": "Jedd Fisch",
+      "new_name": "Mark Philipp",
+      "conf": "Big Ten",
+      "row_idx": 33,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Wisconsin",
+      "old_name": "Brady Collins",
+      "new_name": "Shaun Snee",
+      "conf": "Big Ten",
+      "row_idx": 34,
       "date": "2026-07-17"
     },
     {
       "school": "Notre Dame",
-      "old_name": "Sean Sutton",
-      "new_name": "Before Notre Dame",
+      "old_name": "Before Notre Dame",
+      "new_name": "Notre Dame",
       "conf": "ACC",
       "row_idx": 45,
       "date": "2026-07-17"
     },
     {
-      "school": "Louisiana",
-      "old_name": "Connor Neighbors",
-      "new_name": "Louisiana Football",
-      "conf": "Sun Belt",
-      "row_idx": 105,
+      "school": "SMU",
+      "old_name": "Mercer University",
+      "new_name": "School Sports Team",
+      "conf": "ACC",
+      "row_idx": 47,
       "date": "2026-07-17"
     },
     {
-      "school": "Texas State",
-      "old_name": "Bret Huth",
-      "new_name": "Onnit Gym",
-      "conf": "Sun Belt",
-      "row_idx": 111,
+      "school": "Virginia",
+      "old_name": "Will Harrison",
+      "new_name": "New Virginia",
+      "conf": "ACC",
+      "row_idx": 50,
       "date": "2026-07-17"
     },
     {
-      "school": "Ball State",
-      "old_name": "Scott Foster",
-      "new_name": "Ball State",
+      "school": "Virginia Tech",
+      "old_name": "Joined Virginia Tech",
+      "new_name": "The Hill",
+      "conf": "ACC",
+      "row_idx": 51,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Colorado",
+      "old_name": "Arkansas State",
+      "new_name": "Maurice Sims",
+      "conf": "Big 12",
+      "row_idx": 58,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Kansas",
+      "old_name": "Kansas Team Health",
+      "new_name": "Kansas Football Names",
+      "conf": "Big 12",
+      "row_idx": 61,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Oklahoma",
+      "old_name": "James Dobson",
+      "new_name": "Head Coach Bobby",
+      "conf": "Big 12",
+      "row_idx": 63,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Texas",
+      "old_name": "Cougars Director",
+      "new_name": "Head Strength",
+      "conf": "Big 12",
+      "row_idx": 68,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Utah",
+      "old_name": "New Utah",
+      "new_name": "Baltimore Ravens",
+      "conf": "Big 12",
+      "row_idx": 71,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Colorado State",
+      "old_name": "Tyson Brown",
+      "new_name": "Joey Guarascio",
+      "conf": "MW",
+      "row_idx": 75,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Florida Atlantic",
+      "old_name": "Miami Northwestern Assistant",
+      "new_name": "Florida Atlantic Football",
+      "conf": "AAC",
+      "row_idx": 88,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Temple",
+      "old_name": "Temple Football",
+      "new_name": "Stephen Whitlock",
+      "conf": "AAC",
+      "row_idx": 94,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Tulane",
+      "old_name": "Kyle Speer",
+      "new_name": "Tulane University",
+      "conf": "AAC",
+      "row_idx": 95,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Arkansas State",
+      "old_name": "Central Arkansas",
+      "new_name": "Ben Herbert",
+      "conf": "Sun Belt",
+      "row_idx": 100,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Marshall",
+      "old_name": "Marshall Football Family",
+      "new_name": "Dwight Galt",
+      "conf": "Sun Belt",
+      "row_idx": 107,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "South Alabama",
+      "old_name": "South Alabama Football",
+      "new_name": "Matt Shadeed",
+      "conf": "Sun Belt",
+      "row_idx": 109,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Troy",
+      "old_name": "Unknown",
+      "new_name": "Darl Bauer",
+      "conf": "Sun Belt",
+      "row_idx": 112,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Akron",
+      "old_name": "Youngstown State",
+      "new_name": "Follow Akron Football",
       "conf": "MAC",
-      "row_idx": 114,
+      "row_idx": 113,
+      "date": "2026-07-17"
+    },
+    {
+      "school": "Florida Intl",
+      "old_name": "Matt Hickmann",
+      "new_name": "Ryan Horton",
+      "conf": "CUSA",
+      "row_idx": 126,
       "date": "2026-07-17"
     }
   ],
   "no_change": [
-    {
-      "school": "Alabama",
-      "name": "South Alabama Football"
-    },
     {
       "school": "Arkansas",
       "name": "Arkansas Razorbacks"
@@ -76,20 +248,8 @@
       "name": "Former Louisville"
     },
     {
-      "school": "LSU",
-      "name": "Brian Kelly"
-    },
-    {
       "school": "Mississippi State",
       "name": "Nick Savage"
-    },
-    {
-      "school": "Ole Miss",
-      "name": "Atlanta Falcons"
-    },
-    {
-      "school": "Tennessee",
-      "name": "Tennessee Football Coaching"
     },
     {
       "school": "Texas A&M",
@@ -100,28 +260,12 @@
       "name": "Brandon Hourigan"
     },
     {
-      "school": "Illinois",
-      "name": "Associate Director"
-    },
-    {
-      "school": "Indiana",
-      "name": "Colorado State"
-    },
-    {
       "school": "Iowa",
       "name": "Raimond Braithwaite"
     },
     {
-      "school": "Maryland",
-      "name": "Adam Rittenberg"
-    },
-    {
       "school": "Michigan",
       "name": "Main Navigation"
-    },
-    {
-      "school": "Michigan State",
-      "name": "Shaquille Lee"
     },
     {
       "school": "Minnesota",
@@ -140,24 +284,16 @@
       "name": "Ohio State"
     },
     {
+      "school": "Penn State",
+      "name": "Nittany Lions"
+    },
+    {
       "school": "Purdue",
       "name": "Kiero Small"
     },
     {
-      "school": "Rutgers",
-      "name": "Jay Butler"
-    },
-    {
       "school": "UCLA",
       "name": "Jack Sprague"
-    },
-    {
-      "school": "USC",
-      "name": "Southern University"
-    },
-    {
-      "school": "Washington",
-      "name": "Jedd Fisch"
     },
     {
       "school": "Boston College",
@@ -204,10 +340,6 @@
       "name": "Mark Lovat"
     },
     {
-      "school": "SMU",
-      "name": "Mercer University"
-    },
-    {
       "school": "Stanford",
       "name": "David Shaw"
     },
@@ -216,20 +348,8 @@
       "name": "Former Syracuse"
     },
     {
-      "school": "Virginia",
-      "name": "Will Harrison"
-    },
-    {
-      "school": "Virginia Tech",
-      "name": "Joined Virginia Tech"
-    },
-    {
       "school": "Wake Forest",
       "name": "Coach Dickert Announces"
-    },
-    {
-      "school": "Arizona",
-      "name": "Tyler Owens"
     },
     {
       "school": "Baylor",
@@ -244,10 +364,6 @@
       "name": "Cincinnati Football"
     },
     {
-      "school": "Colorado",
-      "name": "Arkansas State"
-    },
-    {
       "school": "Houston",
       "name": "Houston Football"
     },
@@ -256,24 +372,12 @@
       "name": "Chris Campbell"
     },
     {
-      "school": "Kansas",
-      "name": "Kansas Team Health"
-    },
-    {
       "school": "Kansas State",
       "name": "State Promotes Ray"
     },
     {
-      "school": "Oklahoma",
-      "name": "James Dobson"
-    },
-    {
       "school": "Oklahoma State",
       "name": "Oklahoma State"
-    },
-    {
-      "school": "Oregon",
-      "name": "Oregon Football"
     },
     {
       "school": "Oregon State",
@@ -284,20 +388,12 @@
       "name": "Missouri Southern"
     },
     {
-      "school": "Texas",
-      "name": "Cougars Director"
-    },
-    {
       "school": "Texas Tech",
       "name": "Rusty Whitt"
     },
     {
       "school": "UCF",
       "name": "Chris Dawson"
-    },
-    {
-      "school": "Utah",
-      "name": "New Utah"
     },
     {
       "school": "West Virginia",
@@ -310,10 +406,6 @@
     {
       "school": "Boise State",
       "name": "Benjamin Hilgart"
-    },
-    {
-      "school": "Colorado State",
-      "name": "Tyson Brown"
     },
     {
       "school": "Fresno State",
@@ -360,10 +452,6 @@
       "name": "East Carolina"
     },
     {
-      "school": "Florida Atlantic",
-      "name": "Miami Northwestern Assistant"
-    },
-    {
       "school": "Memphis",
       "name": "Memphis Football"
     },
@@ -384,14 +472,6 @@
       "name": "Related News"
     },
     {
-      "school": "Temple",
-      "name": "Temple Football"
-    },
-    {
-      "school": "Tulane",
-      "name": "Kyle Speer"
-    },
-    {
       "school": "Tulsa",
       "name": "The University"
     },
@@ -406,10 +486,6 @@
     {
       "school": "App State",
       "name": "App State Football"
-    },
-    {
-      "school": "Arkansas State",
-      "name": "Central Arkansas"
     },
     {
       "school": "Coastal Carolina",
@@ -428,28 +504,28 @@
       "name": "Sean Lockwood"
     },
     {
-      "school": "Louisiana Monroe",
-      "name": "Smart Mat Stretching"
+      "school": "Louisiana",
+      "name": "Louisiana Football"
     },
     {
-      "school": "Marshall",
-      "name": "Marshall Football Family"
+      "school": "Louisiana Monroe",
+      "name": "Smart Mat Stretching"
     },
     {
       "school": "Old Dominion",
       "name": "Old Dominion"
     },
     {
-      "school": "South Alabama",
-      "name": "South Alabama Football"
-    },
-    {
       "school": "Southern Miss",
       "name": "Ole Miss"
     },
     {
-      "school": "Akron",
-      "name": "Youngstown State"
+      "school": "Texas State",
+      "name": "Onnit Gym"
+    },
+    {
+      "school": "Ball State",
+      "name": "Ball State"
     },
     {
       "school": "Bowling Green",
@@ -472,60 +548,16 @@
       "name": "Kent State Football"
     },
     {
-      "school": "Massachusetts",
-      "name": "Scott Mc"
-    },
-    {
       "school": "Miami (Ohio)",
       "name": "Dan Dalrymple"
-    },
-    {
-      "school": "Toledo",
-      "name": "Justin Mc"
     },
     {
       "school": "Western Michigan",
       "name": "Grant Geib"
     },
     {
-      "school": "Jacksonville State",
-      "name": "Jacksonville State"
-    },
-    {
-      "school": "Kennesaw State",
-      "name": "Kennesaw State Football"
-    },
-    {
       "school": "Liberty",
       "name": "Related News"
-    },
-    {
-      "school": "Louisiana Tech",
-      "name": "Louisiana Tech"
-    },
-    {
-      "school": "Middle Tennessee",
-      "name": "Jamie Blatnick"
-    },
-    {
-      "school": "Missouri State",
-      "name": "Maurice Sims"
-    },
-    {
-      "school": "New Mexico State",
-      "name": "New Mexico State"
-    },
-    {
-      "school": "UTEP",
-      "name": "Jared Kaihello"
-    },
-    {
-      "school": "Western Kentucky",
-      "name": "Western Kentucky"
-    },
-    {
-      "school": "Delaware",
-      "name": "The University"
     }
   ],
   "errors": [],
@@ -535,20 +567,40 @@
       "stored": "Ryan Russell"
     },
     {
-      "school": "Wisconsin",
-      "stored": "Brady Collins"
+      "school": "Ole Miss",
+      "stored": "Atlanta Falcons"
+    },
+    {
+      "school": "Tennessee",
+      "stored": "Tennessee Football Coaching"
+    },
+    {
+      "school": "Illinois",
+      "stored": "Associate Director"
+    },
+    {
+      "school": "Rutgers",
+      "stored": "Jay Butler"
+    },
+    {
+      "school": "Arizona",
+      "stored": "Tyler Owens"
     },
     {
       "school": "Arizona State",
       "stored": "Joe Connolly"
     },
     {
+      "school": "Oregon",
+      "stored": "Oregon Football"
+    },
+    {
       "school": "Charlotte",
       "stored": "Terrance Ware"
     },
     {
-      "school": "Troy",
-      "stored": "Unknown"
+      "school": "Massachusetts",
+      "stored": "Scott Mc"
     },
     {
       "school": "Northern Illinois",
@@ -559,12 +611,48 @@
       "stored": "Alex Sherwood"
     },
     {
-      "school": "Florida Intl",
-      "stored": "Matt Hickmann"
+      "school": "Toledo",
+      "stored": "Justin Mc"
+    },
+    {
+      "school": "Jacksonville State",
+      "stored": "Jacksonville State"
+    },
+    {
+      "school": "Kennesaw State",
+      "stored": "Kennesaw State Football"
+    },
+    {
+      "school": "Louisiana Tech",
+      "stored": "Louisiana Tech"
+    },
+    {
+      "school": "Middle Tennessee",
+      "stored": "Jamie Blatnick"
+    },
+    {
+      "school": "Missouri State",
+      "stored": "Maurice Sims"
+    },
+    {
+      "school": "New Mexico State",
+      "stored": "New Mexico State"
     },
     {
       "school": "Sam Houston",
       "stored": "Blair H. Vaughan"
+    },
+    {
+      "school": "UTEP",
+      "stored": "Jared Kaihello"
+    },
+    {
+      "school": "Western Kentucky",
+      "stored": "Western Kentucky"
+    },
+    {
+      "school": "Delaware",
+      "stored": "The University"
     }
   ]
 }
