@@ -2,914 +2,142 @@
   "date": "2026-07-17",
   "changes": [
     {
-      "school": "Alabama",
-      "old_name": "David Ballou",
-      "new_name": "South Alabama Football",
+      "school": "South Carolina",
+      "old_name": "Luke Day",
+      "new_name": "Jeff Dillman",
       "conf": "SEC",
-      "row_idx": 4,
+      "row_idx": 14,
       "date": "2026-07-17"
     },
     {
-      "school": "Arkansas",
-      "old_name": "Noah Franklin",
-      "new_name": "Arkansas Razorbacks",
-      "conf": "SEC",
-      "row_idx": 5,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Auburn",
-      "old_name": "George Courides",
-      "new_name": "Tracking Alex Golesh",
-      "conf": "SEC",
-      "row_idx": 6,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Florida",
-      "old_name": "Rusty Whitt",
-      "new_name": "Antonio Turner",
-      "conf": "SEC",
-      "row_idx": 7,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Georgia",
-      "old_name": "Scott Sinclair",
-      "new_name": "Georgia Football",
-      "conf": "SEC",
-      "row_idx": 8,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Kentucky",
+      "school": "Penn State",
       "old_name": "Unknown",
-      "new_name": "Former Louisville",
-      "conf": "SEC",
-      "row_idx": 9,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "LSU",
-      "old_name": "Nick Savage",
-      "new_name": "Brian Kelly",
-      "conf": "SEC",
-      "row_idx": 10,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Mississippi State",
-      "old_name": "Shaud Williams",
-      "new_name": "Nick Savage",
-      "conf": "SEC",
-      "row_idx": 11,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Ole Miss",
-      "old_name": "Unknown",
-      "new_name": "Atlanta Falcons",
-      "conf": "SEC",
-      "row_idx": 13,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Tennessee",
-      "old_name": "Derek Owings",
-      "new_name": "Tennessee Football Coaching",
-      "conf": "SEC",
-      "row_idx": 15,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Texas A&M",
-      "old_name": "Tommy Moffitt",
-      "new_name": "Blake Mc",
-      "conf": "SEC",
-      "row_idx": 16,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Vanderbilt",
-      "old_name": "Jeff Madden",
-      "new_name": "Brandon Hourigan",
-      "conf": "SEC",
-      "row_idx": 17,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Illinois",
-      "old_name": "Tank Wright",
-      "new_name": "Associate Director",
+      "new_name": "Nittany Lions",
       "conf": "Big Ten",
-      "row_idx": 18,
+      "row_idx": 28,
       "date": "2026-07-17"
     },
     {
-      "school": "Indiana",
-      "old_name": "Unknown",
-      "new_name": "Colorado State",
-      "conf": "Big Ten",
-      "row_idx": 19,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Maryland",
-      "old_name": "Ryan Davis",
-      "new_name": "Adam Rittenberg",
-      "conf": "Big Ten",
-      "row_idx": 21,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Michigan",
-      "old_name": "Justin Tress",
-      "new_name": "Main Navigation",
-      "conf": "Big Ten",
-      "row_idx": 22,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Michigan State",
-      "old_name": "Mike McDonald",
-      "new_name": "Shaquille Lee",
-      "conf": "Big Ten",
-      "row_idx": 23,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Minnesota",
-      "old_name": "Dan Nichol",
-      "new_name": "Email Eric",
-      "conf": "Big Ten",
-      "row_idx": 24,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Nebraska",
-      "old_name": "Corey Campbell",
-      "new_name": "Nebraska Football Show",
-      "conf": "Big Ten",
-      "row_idx": 25,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Northwestern",
-      "old_name": "Tanner Koziol",
-      "new_name": "Northwestern Football",
-      "conf": "Big Ten",
-      "row_idx": 26,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Ohio State",
-      "old_name": "Mickey Marotti",
-      "new_name": "Ohio State",
-      "conf": "Big Ten",
-      "row_idx": 27,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "UCLA",
-      "old_name": "Keith Belton",
-      "new_name": "Jack Sprague",
-      "conf": "Big Ten",
-      "row_idx": 31,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "USC",
-      "old_name": "Aaron Ausmus",
-      "new_name": "Southern University",
-      "conf": "Big Ten",
-      "row_idx": 32,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Washington",
-      "old_name": "Tyler Owens",
-      "new_name": "Jedd Fisch",
-      "conf": "Big Ten",
-      "row_idx": 33,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Boston College",
-      "old_name": "Brian Barnes",
-      "new_name": "Boston College Football",
+      "school": "Notre Dame",
+      "old_name": "Sean Sutton",
+      "new_name": "Before Notre Dame",
       "conf": "ACC",
-      "row_idx": 35,
+      "row_idx": 45,
       "date": "2026-07-17"
     },
     {
-      "school": "California",
-      "old_name": "Mike Blasquez",
-      "new_name": "Jason Novak",
-      "conf": "ACC",
-      "row_idx": 36,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Clemson",
-      "old_name": "Joey Batson",
-      "new_name": "Dabo Swinney",
-      "conf": "ACC",
-      "row_idx": 37,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Duke",
-      "old_name": "Alan Stein Jr.",
-      "new_name": "Quick Links",
-      "conf": "ACC",
-      "row_idx": 38,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Georgia Tech",
-      "old_name": "AJ Artis",
-      "new_name": "Georgia Tech",
-      "conf": "ACC",
-      "row_idx": 40,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Louisville",
-      "old_name": "Domenic Reno",
-      "new_name": "Mike Sirignano",
-      "conf": "ACC",
-      "row_idx": 41,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Miami",
-      "old_name": "Thomas Dolan",
-      "new_name": "Rodney Prince",
-      "conf": "ACC",
-      "row_idx": 42,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "North Carolina",
-      "old_name": "Unknown",
-      "new_name": "Brian Hess",
-      "conf": "ACC",
-      "row_idx": 43,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "NC State",
-      "old_name": "Dantonio Burnette",
-      "new_name": "Brandon Howard",
-      "conf": "ACC",
-      "row_idx": 44,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Pittsburgh",
-      "old_name": "Buddy Morris",
-      "new_name": "Mark Lovat",
-      "conf": "ACC",
-      "row_idx": 46,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "SMU",
-      "old_name": "Patrick Redd",
-      "new_name": "Mercer University",
-      "conf": "ACC",
-      "row_idx": 47,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Stanford",
-      "old_name": "Shannon Turley",
-      "new_name": "David Shaw",
-      "conf": "ACC",
-      "row_idx": 48,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Syracuse",
-      "old_name": "Tony Denker",
-      "new_name": "Former Syracuse",
-      "conf": "ACC",
-      "row_idx": 49,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Virginia",
-      "old_name": "Adam Smotherman",
-      "new_name": "Will Harrison",
-      "conf": "ACC",
-      "row_idx": 50,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Virginia Tech",
-      "old_name": "Chuck Losey",
-      "new_name": "Joined Virginia Tech",
-      "conf": "ACC",
-      "row_idx": 51,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Wake Forest",
-      "old_name": "Ethan Reeve",
-      "new_name": "Coach Dickert Announces",
-      "conf": "ACC",
-      "row_idx": 52,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Arizona",
-      "old_name": "Cullen Carroll",
-      "new_name": "Tyler Owens",
-      "conf": "Big 12",
-      "row_idx": 53,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Baylor",
-      "old_name": "Kaz Kazadi",
-      "new_name": "Baylor Football",
-      "conf": "Big 12",
-      "row_idx": 55,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "BYU",
-      "old_name": "Mark Pope",
-      "new_name": "Kalani Sitake",
-      "conf": "Big 12",
-      "row_idx": 56,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Cincinnati",
-      "old_name": "Niko Palazeti",
-      "new_name": "Cincinnati Football",
-      "conf": "Big 12",
-      "row_idx": 57,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Colorado",
-      "old_name": "Austin Chambers",
-      "new_name": "Arkansas State",
-      "conf": "Big 12",
-      "row_idx": 58,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Houston",
-      "old_name": "Kurt Hester",
-      "new_name": "Houston Football",
-      "conf": "Big 12",
-      "row_idx": 59,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Iowa State",
-      "old_name": "Unknown",
-      "new_name": "Chris Campbell",
-      "conf": "Big 12",
-      "row_idx": 60,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Kansas",
-      "old_name": "Matt Gildersleeve",
-      "new_name": "Kansas Team Health",
-      "conf": "Big 12",
-      "row_idx": 61,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Kansas State",
-      "old_name": "Trumain Carroll",
-      "new_name": "State Promotes Ray",
-      "conf": "Big 12",
-      "row_idx": 62,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Oklahoma State",
-      "old_name": "Bryan Kegans",
-      "new_name": "Oklahoma State",
-      "conf": "Big 12",
-      "row_idx": 64,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Oregon",
-      "old_name": "Wilson Love",
-      "new_name": "Oregon Football",
-      "conf": "Big 12",
-      "row_idx": 65,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "TCU",
-      "old_name": "Zach Denton",
-      "new_name": "Missouri Southern",
-      "conf": "Big 12",
-      "row_idx": 67,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Texas",
-      "old_name": "Torre Becton",
-      "new_name": "Cougars Director",
-      "conf": "Big 12",
-      "row_idx": 68,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Texas Tech",
-      "old_name": "Lance Barilow",
-      "new_name": "Rusty Whitt",
-      "conf": "Big 12",
-      "row_idx": 69,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "UCF",
-      "old_name": "Unknown",
-      "new_name": "Chris Dawson",
-      "conf": "Big 12",
-      "row_idx": 70,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Utah",
-      "old_name": "Steve Saunders",
-      "new_name": "New Utah",
-      "conf": "Big 12",
-      "row_idx": 71,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "West Virginia",
-      "old_name": "Mike Joseph",
-      "new_name": "West Virginia",
-      "conf": "Big 12",
-      "row_idx": 72,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Air Force",
-      "old_name": "Eric Chapman",
-      "new_name": "Air Force",
-      "conf": "MW",
-      "row_idx": 73,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Boise State",
-      "old_name": "Mark Ellis",
-      "new_name": "Benjamin Hilgart",
-      "conf": "MW",
-      "row_idx": 74,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Colorado State",
-      "old_name": "Dave Bailey",
-      "new_name": "Tyson Brown",
-      "conf": "MW",
-      "row_idx": 75,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Fresno State",
-      "old_name": "Tavares Martin Jr.",
-      "new_name": "Fresno State",
-      "conf": "MW",
-      "row_idx": 76,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Hawaii",
-      "old_name": "Derek Nate",
-      "new_name": "The Hill",
-      "conf": "MW",
-      "row_idx": 77,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Nevada",
-      "old_name": "Nick Klopp",
-      "new_name": "Nevada Football",
-      "conf": "MW",
-      "row_idx": 78,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "New Mexico",
-      "old_name": "Brian Reinholdt",
-      "new_name": "New Mexico",
-      "conf": "MW",
-      "row_idx": 79,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "San Diego State",
-      "old_name": "Justin Laity",
-      "new_name": "Inside San Diego",
-      "conf": "MW",
-      "row_idx": 80,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "San Jose State",
-      "old_name": "Mike Maciejewski",
-      "new_name": "San Jose State",
-      "conf": "MW",
-      "row_idx": 81,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "UNLV",
-      "old_name": "Lance Marshall",
-      "new_name": "Tanner Maher",
-      "conf": "MW",
-      "row_idx": 82,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Utah State",
-      "old_name": "Tyler Sherwood",
-      "new_name": "Cody Cook",
-      "conf": "MW",
-      "row_idx": 83,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Wyoming",
-      "old_name": "Shawn Griggs",
-      "new_name": "Wyoming Football Game",
-      "conf": "MW",
-      "row_idx": 84,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Army",
-      "old_name": "Bob Palazeti",
-      "new_name": "Army Football Home",
-      "conf": "AAC",
-      "row_idx": 85,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "East Carolina",
-      "old_name": "Corey Grant",
-      "new_name": "East Carolina",
-      "conf": "AAC",
-      "row_idx": 87,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Florida Atlantic",
-      "old_name": "Brandon Lee, CSCS",
-      "new_name": "Miami Northwestern Assistant",
-      "conf": "AAC",
-      "row_idx": 88,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Memphis",
-      "old_name": "Unknown",
-      "new_name": "Memphis Football",
-      "conf": "AAC",
-      "row_idx": 89,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Navy",
-      "old_name": "Derek Waldron",
-      "new_name": "Head Strength",
-      "conf": "AAC",
-      "row_idx": 90,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "North Texas",
-      "old_name": "Jordan Diaz",
-      "new_name": "Lewis Caralla",
-      "conf": "AAC",
-      "row_idx": 91,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Rice",
-      "old_name": "Blake Streeter",
-      "new_name": "Hans Straub",
-      "conf": "AAC",
-      "row_idx": 92,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "South Florida",
-      "old_name": "Antonio Turner",
-      "new_name": "Related News",
-      "conf": "AAC",
-      "row_idx": 93,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Temple",
-      "old_name": "Brad Traynor",
-      "new_name": "Temple Football",
-      "conf": "AAC",
-      "row_idx": 94,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Tulane",
-      "old_name": "Unknown",
-      "new_name": "Kyle Speer",
-      "conf": "AAC",
-      "row_idx": 95,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Tulsa",
-      "old_name": "Garrett Moreau",
-      "new_name": "The University",
-      "conf": "AAC",
-      "row_idx": 96,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "UAB",
-      "old_name": "David Feely",
-      "new_name": "Football Record Book",
-      "conf": "AAC",
-      "row_idx": 97,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "UTSA",
-      "old_name": "Jared Kaaiohelo",
-      "new_name": "Football Roster",
-      "conf": "AAC",
-      "row_idx": 98,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "App State",
-      "old_name": "Tom Rozmiarek",
-      "new_name": "App State Football",
+      "school": "Louisiana",
+      "old_name": "Connor Neighbors",
+      "new_name": "Louisiana Football",
       "conf": "Sun Belt",
-      "row_idx": 99,
+      "row_idx": 105,
       "date": "2026-07-17"
     },
     {
-      "school": "Arkansas State",
-      "old_name": "Jake Ross",
-      "new_name": "Central Arkansas",
+      "school": "Texas State",
+      "old_name": "Bret Huth",
+      "new_name": "Onnit Gym",
       "conf": "Sun Belt",
-      "row_idx": 100,
+      "row_idx": 111,
       "date": "2026-07-17"
     },
     {
-      "school": "Coastal Carolina",
-      "old_name": "Cody Rosen",
-      "new_name": "Chad Scott",
-      "conf": "Sun Belt",
-      "row_idx": 101,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Georgia Southern",
-      "old_name": "Brent Burns",
-      "new_name": "Georgia Southern",
-      "conf": "Sun Belt",
-      "row_idx": 102,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Georgia State",
-      "old_name": "Antoine Murchison",
-      "new_name": "Mike Sirignano",
-      "conf": "Sun Belt",
-      "row_idx": 103,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "James Madison",
-      "old_name": "T.J. Ford",
-      "new_name": "Sean Lockwood",
-      "conf": "Sun Belt",
-      "row_idx": 104,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Louisiana Monroe",
-      "old_name": "Bobby Pope",
-      "new_name": "Smart Mat Stretching",
-      "conf": "Sun Belt",
-      "row_idx": 106,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Marshall",
-      "old_name": "Cam Shelmadine",
-      "new_name": "Marshall Football Family",
-      "conf": "Sun Belt",
-      "row_idx": 107,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Old Dominion",
-      "old_name": "Max Loncar",
-      "new_name": "Old Dominion",
-      "conf": "Sun Belt",
-      "row_idx": 108,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "South Alabama",
-      "old_name": "Marcus Edgerton",
-      "new_name": "South Alabama Football",
-      "conf": "Sun Belt",
-      "row_idx": 109,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Southern Miss",
-      "old_name": "Wayne Vandenburg",
-      "new_name": "Ole Miss",
-      "conf": "Sun Belt",
-      "row_idx": 110,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Akron",
-      "old_name": "Drew Hankinson",
-      "new_name": "Youngstown State",
+      "school": "Ball State",
+      "old_name": "Scott Foster",
+      "new_name": "Ball State",
       "conf": "MAC",
-      "row_idx": 113,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Bowling Green",
-      "old_name": "Keith Minor",
-      "new_name": "Andrew Vonada",
-      "conf": "MAC",
-      "row_idx": 115,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Buffalo",
-      "old_name": "Justin Baum",
-      "new_name": "Ryan Horton",
-      "conf": "MAC",
-      "row_idx": 116,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Central Michigan",
-      "old_name": "Jon Paul Gage",
-      "new_name": "Jake Riedel",
-      "conf": "MAC",
-      "row_idx": 117,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Eastern Michigan",
-      "old_name": "Cole Maxey",
-      "new_name": "Eastern Michigan",
-      "conf": "MAC",
-      "row_idx": 118,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Kent State",
-      "old_name": "Scott Mohn",
-      "new_name": "Kent State Football",
-      "conf": "MAC",
-      "row_idx": 119,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Massachusetts",
-      "old_name": "Shaun Anderson",
-      "new_name": "Scott Mc",
-      "conf": "MAC",
-      "row_idx": 120,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Miami (Ohio)",
-      "old_name": "Darren Moughton",
-      "new_name": "Dan Dalrymple",
-      "conf": "MAC",
-      "row_idx": 121,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Toledo",
-      "old_name": "Evan Barr",
-      "new_name": "Justin Mc",
-      "conf": "MAC",
-      "row_idx": 124,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Western Michigan",
-      "old_name": "Dex Burnett",
-      "new_name": "Grant Geib",
-      "conf": "MAC",
-      "row_idx": 125,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Jacksonville State",
-      "old_name": "Aaron Cain",
-      "new_name": "Jacksonville State",
-      "conf": "CUSA",
-      "row_idx": 127,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Kennesaw State",
-      "old_name": "Keith Mitchell",
-      "new_name": "Kennesaw State Football",
-      "conf": "CUSA",
-      "row_idx": 128,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Liberty",
-      "old_name": "Randal Matheny",
-      "new_name": "Related News",
-      "conf": "CUSA",
-      "row_idx": 129,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Louisiana Tech",
-      "old_name": "Matt Dean",
-      "new_name": "Louisiana Tech",
-      "conf": "CUSA",
-      "row_idx": 130,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Middle Tennessee",
-      "old_name": "Tremaine Kelly",
-      "new_name": "Jamie Blatnick",
-      "conf": "CUSA",
-      "row_idx": 131,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Missouri State",
-      "old_name": "Jared Whetstone",
-      "new_name": "Maurice Sims",
-      "conf": "CUSA",
-      "row_idx": 132,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "New Mexico State",
-      "old_name": "Bobby Jones",
-      "new_name": "New Mexico State",
-      "conf": "CUSA",
-      "row_idx": 133,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "UTEP",
-      "old_name": "Trent Shelton",
-      "new_name": "Jared Kaihello",
-      "conf": "CUSA",
-      "row_idx": 135,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Western Kentucky",
-      "old_name": "Mike Gentry",
-      "new_name": "Western Kentucky",
-      "conf": "CUSA",
-      "row_idx": 136,
-      "date": "2026-07-17"
-    },
-    {
-      "school": "Delaware",
-      "old_name": "Tommy Preas",
-      "new_name": "The University",
-      "conf": "CUSA",
-      "row_idx": 137,
+      "row_idx": 114,
       "date": "2026-07-17"
     }
   ],
   "no_change": [
     {
+      "school": "Alabama",
+      "name": "South Alabama Football"
+    },
+    {
+      "school": "Arkansas",
+      "name": "Arkansas Razorbacks"
+    },
+    {
+      "school": "Auburn",
+      "name": "Tracking Alex Golesh"
+    },
+    {
+      "school": "Florida",
+      "name": "Antonio Turner"
+    },
+    {
+      "school": "Georgia",
+      "name": "Georgia Football"
+    },
+    {
+      "school": "Kentucky",
+      "name": "Former Louisville"
+    },
+    {
+      "school": "LSU",
+      "name": "Brian Kelly"
+    },
+    {
+      "school": "Mississippi State",
+      "name": "Nick Savage"
+    },
+    {
+      "school": "Ole Miss",
+      "name": "Atlanta Falcons"
+    },
+    {
+      "school": "Tennessee",
+      "name": "Tennessee Football Coaching"
+    },
+    {
+      "school": "Texas A&M",
+      "name": "Blake Mc"
+    },
+    {
+      "school": "Vanderbilt",
+      "name": "Brandon Hourigan"
+    },
+    {
+      "school": "Illinois",
+      "name": "Associate Director"
+    },
+    {
+      "school": "Indiana",
+      "name": "Colorado State"
+    },
+    {
       "school": "Iowa",
       "name": "Raimond Braithwaite"
+    },
+    {
+      "school": "Maryland",
+      "name": "Adam Rittenberg"
+    },
+    {
+      "school": "Michigan",
+      "name": "Main Navigation"
+    },
+    {
+      "school": "Michigan State",
+      "name": "Shaquille Lee"
+    },
+    {
+      "school": "Minnesota",
+      "name": "Email Eric"
+    },
+    {
+      "school": "Nebraska",
+      "name": "Nebraska Football Show"
+    },
+    {
+      "school": "Northwestern",
+      "name": "Northwestern Football"
+    },
+    {
+      "school": "Ohio State",
+      "name": "Ohio State"
     },
     {
       "school": "Purdue",
@@ -920,16 +148,384 @@
       "name": "Jay Butler"
     },
     {
+      "school": "UCLA",
+      "name": "Jack Sprague"
+    },
+    {
+      "school": "USC",
+      "name": "Southern University"
+    },
+    {
+      "school": "Washington",
+      "name": "Jedd Fisch"
+    },
+    {
+      "school": "Boston College",
+      "name": "Boston College Football"
+    },
+    {
+      "school": "California",
+      "name": "Jason Novak"
+    },
+    {
+      "school": "Clemson",
+      "name": "Dabo Swinney"
+    },
+    {
+      "school": "Duke",
+      "name": "Quick Links"
+    },
+    {
       "school": "Florida State",
       "name": "Josh Storms"
+    },
+    {
+      "school": "Georgia Tech",
+      "name": "Georgia Tech"
+    },
+    {
+      "school": "Louisville",
+      "name": "Mike Sirignano"
+    },
+    {
+      "school": "Miami",
+      "name": "Rodney Prince"
+    },
+    {
+      "school": "North Carolina",
+      "name": "Brian Hess"
+    },
+    {
+      "school": "NC State",
+      "name": "Brandon Howard"
+    },
+    {
+      "school": "Pittsburgh",
+      "name": "Mark Lovat"
+    },
+    {
+      "school": "SMU",
+      "name": "Mercer University"
+    },
+    {
+      "school": "Stanford",
+      "name": "David Shaw"
+    },
+    {
+      "school": "Syracuse",
+      "name": "Former Syracuse"
+    },
+    {
+      "school": "Virginia",
+      "name": "Will Harrison"
+    },
+    {
+      "school": "Virginia Tech",
+      "name": "Joined Virginia Tech"
+    },
+    {
+      "school": "Wake Forest",
+      "name": "Coach Dickert Announces"
+    },
+    {
+      "school": "Arizona",
+      "name": "Tyler Owens"
+    },
+    {
+      "school": "Baylor",
+      "name": "Baylor Football"
+    },
+    {
+      "school": "BYU",
+      "name": "Kalani Sitake"
+    },
+    {
+      "school": "Cincinnati",
+      "name": "Cincinnati Football"
+    },
+    {
+      "school": "Colorado",
+      "name": "Arkansas State"
+    },
+    {
+      "school": "Houston",
+      "name": "Houston Football"
+    },
+    {
+      "school": "Iowa State",
+      "name": "Chris Campbell"
+    },
+    {
+      "school": "Kansas",
+      "name": "Kansas Team Health"
+    },
+    {
+      "school": "Kansas State",
+      "name": "State Promotes Ray"
     },
     {
       "school": "Oklahoma",
       "name": "James Dobson"
     },
     {
+      "school": "Oklahoma State",
+      "name": "Oklahoma State"
+    },
+    {
+      "school": "Oregon",
+      "name": "Oregon Football"
+    },
+    {
       "school": "Oregon State",
       "name": "Marco Candido"
+    },
+    {
+      "school": "TCU",
+      "name": "Missouri Southern"
+    },
+    {
+      "school": "Texas",
+      "name": "Cougars Director"
+    },
+    {
+      "school": "Texas Tech",
+      "name": "Rusty Whitt"
+    },
+    {
+      "school": "UCF",
+      "name": "Chris Dawson"
+    },
+    {
+      "school": "Utah",
+      "name": "New Utah"
+    },
+    {
+      "school": "West Virginia",
+      "name": "West Virginia"
+    },
+    {
+      "school": "Air Force",
+      "name": "Air Force"
+    },
+    {
+      "school": "Boise State",
+      "name": "Benjamin Hilgart"
+    },
+    {
+      "school": "Colorado State",
+      "name": "Tyson Brown"
+    },
+    {
+      "school": "Fresno State",
+      "name": "Fresno State"
+    },
+    {
+      "school": "Hawaii",
+      "name": "The Hill"
+    },
+    {
+      "school": "Nevada",
+      "name": "Nevada Football"
+    },
+    {
+      "school": "New Mexico",
+      "name": "New Mexico"
+    },
+    {
+      "school": "San Diego State",
+      "name": "Inside San Diego"
+    },
+    {
+      "school": "San Jose State",
+      "name": "San Jose State"
+    },
+    {
+      "school": "UNLV",
+      "name": "Tanner Maher"
+    },
+    {
+      "school": "Utah State",
+      "name": "Cody Cook"
+    },
+    {
+      "school": "Wyoming",
+      "name": "Wyoming Football Game"
+    },
+    {
+      "school": "Army",
+      "name": "Army Football Home"
+    },
+    {
+      "school": "East Carolina",
+      "name": "East Carolina"
+    },
+    {
+      "school": "Florida Atlantic",
+      "name": "Miami Northwestern Assistant"
+    },
+    {
+      "school": "Memphis",
+      "name": "Memphis Football"
+    },
+    {
+      "school": "Navy",
+      "name": "Head Strength"
+    },
+    {
+      "school": "North Texas",
+      "name": "Lewis Caralla"
+    },
+    {
+      "school": "Rice",
+      "name": "Hans Straub"
+    },
+    {
+      "school": "South Florida",
+      "name": "Related News"
+    },
+    {
+      "school": "Temple",
+      "name": "Temple Football"
+    },
+    {
+      "school": "Tulane",
+      "name": "Kyle Speer"
+    },
+    {
+      "school": "Tulsa",
+      "name": "The University"
+    },
+    {
+      "school": "UAB",
+      "name": "Football Record Book"
+    },
+    {
+      "school": "UTSA",
+      "name": "Football Roster"
+    },
+    {
+      "school": "App State",
+      "name": "App State Football"
+    },
+    {
+      "school": "Arkansas State",
+      "name": "Central Arkansas"
+    },
+    {
+      "school": "Coastal Carolina",
+      "name": "Chad Scott"
+    },
+    {
+      "school": "Georgia Southern",
+      "name": "Georgia Southern"
+    },
+    {
+      "school": "Georgia State",
+      "name": "Mike Sirignano"
+    },
+    {
+      "school": "James Madison",
+      "name": "Sean Lockwood"
+    },
+    {
+      "school": "Louisiana Monroe",
+      "name": "Smart Mat Stretching"
+    },
+    {
+      "school": "Marshall",
+      "name": "Marshall Football Family"
+    },
+    {
+      "school": "Old Dominion",
+      "name": "Old Dominion"
+    },
+    {
+      "school": "South Alabama",
+      "name": "South Alabama Football"
+    },
+    {
+      "school": "Southern Miss",
+      "name": "Ole Miss"
+    },
+    {
+      "school": "Akron",
+      "name": "Youngstown State"
+    },
+    {
+      "school": "Bowling Green",
+      "name": "Andrew Vonada"
+    },
+    {
+      "school": "Buffalo",
+      "name": "Ryan Horton"
+    },
+    {
+      "school": "Central Michigan",
+      "name": "Jake Riedel"
+    },
+    {
+      "school": "Eastern Michigan",
+      "name": "Eastern Michigan"
+    },
+    {
+      "school": "Kent State",
+      "name": "Kent State Football"
+    },
+    {
+      "school": "Massachusetts",
+      "name": "Scott Mc"
+    },
+    {
+      "school": "Miami (Ohio)",
+      "name": "Dan Dalrymple"
+    },
+    {
+      "school": "Toledo",
+      "name": "Justin Mc"
+    },
+    {
+      "school": "Western Michigan",
+      "name": "Grant Geib"
+    },
+    {
+      "school": "Jacksonville State",
+      "name": "Jacksonville State"
+    },
+    {
+      "school": "Kennesaw State",
+      "name": "Kennesaw State Football"
+    },
+    {
+      "school": "Liberty",
+      "name": "Related News"
+    },
+    {
+      "school": "Louisiana Tech",
+      "name": "Louisiana Tech"
+    },
+    {
+      "school": "Middle Tennessee",
+      "name": "Jamie Blatnick"
+    },
+    {
+      "school": "Missouri State",
+      "name": "Maurice Sims"
+    },
+    {
+      "school": "New Mexico State",
+      "name": "New Mexico State"
+    },
+    {
+      "school": "UTEP",
+      "name": "Jared Kaihello"
+    },
+    {
+      "school": "Western Kentucky",
+      "name": "Western Kentucky"
+    },
+    {
+      "school": "Delaware",
+      "name": "The University"
     }
   ],
   "errors": [],
@@ -939,20 +535,8 @@
       "stored": "Ryan Russell"
     },
     {
-      "school": "South Carolina",
-      "stored": "Luke Day"
-    },
-    {
-      "school": "Penn State",
-      "stored": "Unknown"
-    },
-    {
       "school": "Wisconsin",
       "stored": "Brady Collins"
-    },
-    {
-      "school": "Notre Dame",
-      "stored": "Sean Sutton"
     },
     {
       "school": "Arizona State",
@@ -963,20 +547,8 @@
       "stored": "Terrance Ware"
     },
     {
-      "school": "Louisiana",
-      "stored": "Connor Neighbors"
-    },
-    {
-      "school": "Texas State",
-      "stored": "Bret Huth"
-    },
-    {
       "school": "Troy",
       "stored": "Unknown"
-    },
-    {
-      "school": "Ball State",
-      "stored": "Scott Foster"
     },
     {
       "school": "Northern Illinois",
