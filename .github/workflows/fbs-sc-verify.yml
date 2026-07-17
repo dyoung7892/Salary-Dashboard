@@ -63,23 +63,23 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements.txt
 
-      - name: Diff staff-directory names
+      - name: Diff staff-directory names against stored roster
         env:
           SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
-        run: python scripts/churn_sentinel.py --all --out data/churn_$(date +%Y%m%d).json
+        run: python churn_sentinel.py --all --out data/churn_$(date +%Y%m%d).json
 
       - name: Propagate departures
-        run: python scripts/propagate_departures.py --in data/churn_$(date +%Y%m%d).json
+        run: python propagate_departures.py --in data/churn_$(date +%Y%m%d).json
 
       - name: Decay stale confidence
-        run: python scripts/decay_confidence.py --max-age-days 180
+        run: python decay_confidence.py --max-age-days 180
 
       - name: Commit results
         run: |
           git config user.name  "fbs-sc-bot"
           git config user.email "actions@github.com"
           git add -A data/
-          git diff --staged --quiet || git commit -m "Track A $(date +%F)"
+          git diff --staged --quiet || git commit -m "Track A churn sweep $(date +%F)"
           git push
 
   track_b_deep:
@@ -93,20 +93,20 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements.txt
 
-      - name: Enforce name gate
-        run: python scripts/enforce_name_gate.py --strict
+      - name: Enforce name-verification gate
+        run: python enforce_name_gate.py --strict
 
       - name: Run rotation slice
         env:
           SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
         run: |
-          python scripts/deep_verify.py \
+          python deep_verify.py \
             --slice ${{ needs.gate.outputs.track_b }} \
-            --config config/rotation.yml \
+            --config rotation.yml \
             --out data/deep_${{ needs.gate.outputs.track_b }}_$(date +%Y%m%d).json
 
       - name: Rebuild dashboard
-        run: python scripts/dashboard.py --confirmed-only --out docs/index.html
+        run: python dashboard.py --confirmed-only --out docs/index.html
 
       - name: Commit results
         run: |
