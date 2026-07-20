@@ -1,0 +1,545 @@
+{
+  "date": "2026-07-20",
+  "changes": [],
+  "no_change": [
+    {
+      "school": "Michigan",
+      "name": "Main Navigation"
+    },
+    {
+      "school": "Duke",
+      "name": "Quick Links"
+    },
+    {
+      "school": "South Florida",
+      "name": "Related News"
+    },
+    {
+      "school": "Liberty",
+      "name": "Related News"
+    }
+  ],
+  "errors": [],
+  "not_found": [
+    {
+      "school": "Alabama",
+      "stored": "Freddie Roach Added"
+    },
+    {
+      "school": "Arkansas",
+      "stored": "Arkansas Razorbacks"
+    },
+    {
+      "school": "Auburn",
+      "stored": "Tracking Alex Golesh"
+    },
+    {
+      "school": "Florida",
+      "stored": "Antonio Turner"
+    },
+    {
+      "school": "Georgia",
+      "stored": "Georgia Football"
+    },
+    {
+      "school": "Kentucky",
+      "stored": "Former Louisville"
+    },
+    {
+      "school": "LSU",
+      "stored": "Jake Flint"
+    },
+    {
+      "school": "Mississippi State",
+      "stored": "Nick Savage"
+    },
+    {
+      "school": "Missouri",
+      "stored": "Ryan Russell"
+    },
+    {
+      "school": "Ole Miss",
+      "stored": "Atlanta Falcons"
+    },
+    {
+      "school": "South Carolina",
+      "stored": "South Carolina"
+    },
+    {
+      "school": "Tennessee",
+      "stored": "Tennessee Football Coaching"
+    },
+    {
+      "school": "Texas A&M",
+      "stored": "Blake Mc"
+    },
+    {
+      "school": "Vanderbilt",
+      "stored": "Brandon Hourigan"
+    },
+    {
+      "school": "Illinois",
+      "stored": "Associate Director"
+    },
+    {
+      "school": "Indiana",
+      "stored": "Tyson Brown"
+    },
+    {
+      "school": "Iowa",
+      "stored": "Raimond Braithwaite"
+    },
+    {
+      "school": "Maryland",
+      "stored": "Colorado State"
+    },
+    {
+      "school": "Michigan State",
+      "stored": "Michigan State"
+    },
+    {
+      "school": "Minnesota",
+      "stored": "Email Eric"
+    },
+    {
+      "school": "Nebraska",
+      "stored": "Nebraska Football Show"
+    },
+    {
+      "school": "Northwestern",
+      "stored": "Northwestern Football"
+    },
+    {
+      "school": "Ohio State",
+      "stored": "Ohio State"
+    },
+    {
+      "school": "Penn State",
+      "stored": "Nittany Lions"
+    },
+    {
+      "school": "Purdue",
+      "stored": "Kiero Small"
+    },
+    {
+      "school": "Rutgers",
+      "stored": "Jay Butler"
+    },
+    {
+      "school": "UCLA",
+      "stored": "Jack Sprague"
+    },
+    {
+      "school": "USC",
+      "stored": "Cougars Director"
+    },
+    {
+      "school": "Washington",
+      "stored": "Mark Philipp"
+    },
+    {
+      "school": "Wisconsin",
+      "stored": "Shaun Snee"
+    },
+    {
+      "school": "Boston College",
+      "stored": "Boston College Football"
+    },
+    {
+      "school": "California",
+      "stored": "Jason Novak"
+    },
+    {
+      "school": "Clemson",
+      "stored": "Dabo Swinney"
+    },
+    {
+      "school": "Florida State",
+      "stored": "Josh Storms"
+    },
+    {
+      "school": "Georgia Tech",
+      "stored": "Georgia Tech"
+    },
+    {
+      "school": "Louisville",
+      "stored": "Mike Sirignano"
+    },
+    {
+      "school": "Miami",
+      "stored": "Rodney Prince"
+    },
+    {
+      "school": "North Carolina",
+      "stored": "Brian Hess"
+    },
+    {
+      "school": "NC State",
+      "stored": "Brandon Howard"
+    },
+    {
+      "school": "Notre Dame",
+      "stored": "Notre Dame"
+    },
+    {
+      "school": "Pittsburgh",
+      "stored": "Mark Lovat"
+    },
+    {
+      "school": "SMU",
+      "stored": "School Sports Team"
+    },
+    {
+      "school": "Stanford",
+      "stored": "David Shaw"
+    },
+    {
+      "school": "Syracuse",
+      "stored": "Former Syracuse"
+    },
+    {
+      "school": "Virginia",
+      "stored": "New Virginia"
+    },
+    {
+      "school": "Virginia Tech",
+      "stored": "The Hill"
+    },
+    {
+      "school": "Wake Forest",
+      "stored": "Coach Dickert Announces"
+    },
+    {
+      "school": "Arizona",
+      "stored": "Tyler Owens"
+    },
+    {
+      "school": "Arizona State",
+      "stored": "Joe Connolly"
+    },
+    {
+      "school": "Baylor",
+      "stored": "Baylor Football"
+    },
+    {
+      "school": "BYU",
+      "stored": "Kalani Sitake"
+    },
+    {
+      "school": "Cincinnati",
+      "stored": "Cincinnati Football"
+    },
+    {
+      "school": "Colorado",
+      "stored": "Maurice Sims"
+    },
+    {
+      "school": "Houston",
+      "stored": "Houston Football"
+    },
+    {
+      "school": "Iowa State",
+      "stored": "Chris Campbell"
+    },
+    {
+      "school": "Kansas",
+      "stored": "Kansas Football Names"
+    },
+    {
+      "school": "Kansas State",
+      "stored": "State Promotes Ray"
+    },
+    {
+      "school": "Oklahoma",
+      "stored": "Head Coach Bobby"
+    },
+    {
+      "school": "Oklahoma State",
+      "stored": "Oklahoma State"
+    },
+    {
+      "school": "Oregon",
+      "stored": "Oregon Football"
+    },
+    {
+      "school": "Oregon State",
+      "stored": "Marco Candido"
+    },
+    {
+      "school": "TCU",
+      "stored": "Missouri Southern"
+    },
+    {
+      "school": "Texas",
+      "stored": "Head Strength"
+    },
+    {
+      "school": "Texas Tech",
+      "stored": "Rusty Whitt"
+    },
+    {
+      "school": "UCF",
+      "stored": "Chris Dawson"
+    },
+    {
+      "school": "Utah",
+      "stored": "Baltimore Ravens"
+    },
+    {
+      "school": "West Virginia",
+      "stored": "West Virginia"
+    },
+    {
+      "school": "Air Force",
+      "stored": "Air Force"
+    },
+    {
+      "school": "Boise State",
+      "stored": "Benjamin Hilgart"
+    },
+    {
+      "school": "Colorado State",
+      "stored": "Joey Guarascio"
+    },
+    {
+      "school": "Fresno State",
+      "stored": "Fresno State"
+    },
+    {
+      "school": "Hawaii",
+      "stored": "The Hill"
+    },
+    {
+      "school": "Nevada",
+      "stored": "Nevada Football"
+    },
+    {
+      "school": "New Mexico",
+      "stored": "New Mexico"
+    },
+    {
+      "school": "San Diego State",
+      "stored": "Inside San Diego"
+    },
+    {
+      "school": "San Jose State",
+      "stored": "San Jose State"
+    },
+    {
+      "school": "UNLV",
+      "stored": "Tanner Maher"
+    },
+    {
+      "school": "Utah State",
+      "stored": "Cody Cook"
+    },
+    {
+      "school": "Wyoming",
+      "stored": "Wyoming Football Game"
+    },
+    {
+      "school": "Army",
+      "stored": "Army Football Home"
+    },
+    {
+      "school": "Charlotte",
+      "stored": "Terrance Ware"
+    },
+    {
+      "school": "East Carolina",
+      "stored": "East Carolina"
+    },
+    {
+      "school": "Florida Atlantic",
+      "stored": "Florida Atlantic Football"
+    },
+    {
+      "school": "Memphis",
+      "stored": "Memphis Football"
+    },
+    {
+      "school": "Navy",
+      "stored": "Head Strength"
+    },
+    {
+      "school": "North Texas",
+      "stored": "Lewis Caralla"
+    },
+    {
+      "school": "Rice",
+      "stored": "Hans Straub"
+    },
+    {
+      "school": "Temple",
+      "stored": "Stephen Whitlock"
+    },
+    {
+      "school": "Tulane",
+      "stored": "Tulane University"
+    },
+    {
+      "school": "Tulsa",
+      "stored": "The University"
+    },
+    {
+      "school": "UAB",
+      "stored": "Football Record Book"
+    },
+    {
+      "school": "UTSA",
+      "stored": "Football Roster"
+    },
+    {
+      "school": "App State",
+      "stored": "App State Football"
+    },
+    {
+      "school": "Arkansas State",
+      "stored": "Ben Herbert"
+    },
+    {
+      "school": "Coastal Carolina",
+      "stored": "Chad Scott"
+    },
+    {
+      "school": "Georgia Southern",
+      "stored": "Georgia Southern"
+    },
+    {
+      "school": "Georgia State",
+      "stored": "Mike Sirignano"
+    },
+    {
+      "school": "James Madison",
+      "stored": "Sean Lockwood"
+    },
+    {
+      "school": "Louisiana",
+      "stored": "Louisiana Football"
+    },
+    {
+      "school": "Louisiana Monroe",
+      "stored": "Smart Mat Stretching"
+    },
+    {
+      "school": "Marshall",
+      "stored": "Dwight Galt"
+    },
+    {
+      "school": "Old Dominion",
+      "stored": "Old Dominion"
+    },
+    {
+      "school": "South Alabama",
+      "stored": "Matt Shadeed"
+    },
+    {
+      "school": "Southern Miss",
+      "stored": "Ole Miss"
+    },
+    {
+      "school": "Texas State",
+      "stored": "Onnit Gym"
+    },
+    {
+      "school": "Troy",
+      "stored": "Darl Bauer"
+    },
+    {
+      "school": "Akron",
+      "stored": "Follow Akron Football"
+    },
+    {
+      "school": "Ball State",
+      "stored": "Ball State"
+    },
+    {
+      "school": "Bowling Green",
+      "stored": "Andrew Vonada"
+    },
+    {
+      "school": "Buffalo",
+      "stored": "Ryan Horton"
+    },
+    {
+      "school": "Central Michigan",
+      "stored": "Jake Riedel"
+    },
+    {
+      "school": "Eastern Michigan",
+      "stored": "Eastern Michigan"
+    },
+    {
+      "school": "Kent State",
+      "stored": "Kent State Football"
+    },
+    {
+      "school": "Massachusetts",
+      "stored": "Scott Mc"
+    },
+    {
+      "school": "Miami (Ohio)",
+      "stored": "Dan Dalrymple"
+    },
+    {
+      "school": "Northern Illinois",
+      "stored": "Cody Grimm"
+    },
+    {
+      "school": "Ohio",
+      "stored": "Alex Sherwood"
+    },
+    {
+      "school": "Toledo",
+      "stored": "Justin Mc"
+    },
+    {
+      "school": "Western Michigan",
+      "stored": "Grant Geib"
+    },
+    {
+      "school": "Florida Intl",
+      "stored": "Ryan Horton"
+    },
+    {
+      "school": "Jacksonville State",
+      "stored": "Jacksonville State"
+    },
+    {
+      "school": "Kennesaw State",
+      "stored": "Kennesaw State Football"
+    },
+    {
+      "school": "Louisiana Tech",
+      "stored": "Louisiana Tech"
+    },
+    {
+      "school": "Middle Tennessee",
+      "stored": "Jamie Blatnick"
+    },
+    {
+      "school": "Missouri State",
+      "stored": "Maurice Sims"
+    },
+    {
+      "school": "New Mexico State",
+      "stored": "New Mexico State"
+    },
+    {
+      "school": "Sam Houston",
+      "stored": "Blair H. Vaughan"
+    },
+    {
+      "school": "UTEP",
+      "stored": "Jared Kaihello"
+    },
+    {
+      "school": "Western Kentucky",
+      "stored": "Western Kentucky"
+    },
+    {
+      "school": "Delaware",
+      "stored": "The University"
+    }
+  ]
+}
