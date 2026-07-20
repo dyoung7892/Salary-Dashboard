@@ -114,4 +114,4 @@ jobs:
           git config user.email "actions@github.com"
           git add data/deep_*.json docs/
           git diff --staged --quiet || git commit -m "Track B ${{ needs.gate.outputs.track_b }} $(date +%F)"
-          git push --force-with-lease
+          git push --force
