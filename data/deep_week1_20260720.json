@@ -1,0 +1,233 @@
+{
+  "slice": "week1",
+  "date": "2026-07-20",
+  "confirmed": [],
+  "not_found": [
+    {
+      "school": "Missouri",
+      "coach": "Ryan Russell"
+    },
+    {
+      "school": "Iowa",
+      "coach": "Raimond Braithwaite"
+    },
+    {
+      "school": "Purdue",
+      "coach": "Kiero Small"
+    },
+    {
+      "school": "Rutgers",
+      "coach": "Jay Butler"
+    },
+    {
+      "school": "Florida State",
+      "coach": "Josh Storms"
+    },
+    {
+      "school": "Arizona State",
+      "coach": "Joe Connolly"
+    }
+  ],
+  "skipped_name_gate": [
+    {
+      "school": "Alabama",
+      "coach": "Freddie Roach Added"
+    },
+    {
+      "school": "Arkansas",
+      "coach": "Arkansas Razorbacks"
+    },
+    {
+      "school": "Auburn",
+      "coach": "Tracking Alex Golesh"
+    },
+    {
+      "school": "Florida",
+      "coach": "Antonio Turner"
+    },
+    {
+      "school": "Georgia",
+      "coach": "Georgia Football"
+    },
+    {
+      "school": "Kentucky",
+      "coach": "Former Louisville"
+    },
+    {
+      "school": "LSU",
+      "coach": "Jake Flint"
+    },
+    {
+      "school": "Mississippi State",
+      "coach": "Nick Savage"
+    },
+    {
+      "school": "Ole Miss",
+      "coach": "Atlanta Falcons"
+    },
+    {
+      "school": "South Carolina",
+      "coach": "South Carolina"
+    },
+    {
+      "school": "Tennessee",
+      "coach": "Tennessee Football Coaching"
+    },
+    {
+      "school": "Texas A&M",
+      "coach": "Blake Mc"
+    },
+    {
+      "school": "Illinois",
+      "coach": "Associate Director"
+    },
+    {
+      "school": "Indiana",
+      "coach": "Tyson Brown"
+    },
+    {
+      "school": "Maryland",
+      "coach": "Colorado State"
+    },
+    {
+      "school": "Michigan",
+      "coach": "Main Navigation"
+    },
+    {
+      "school": "Michigan State",
+      "coach": "Michigan State"
+    },
+    {
+      "school": "Minnesota",
+      "coach": "Email Eric"
+    },
+    {
+      "school": "Nebraska",
+      "coach": "Nebraska Football Show"
+    },
+    {
+      "school": "Ohio State",
+      "coach": "Ohio State"
+    },
+    {
+      "school": "Penn State",
+      "coach": "Nittany Lions"
+    },
+    {
+      "school": "UCLA",
+      "coach": "Jack Sprague"
+    },
+    {
+      "school": "Washington",
+      "coach": "Mark Philipp"
+    },
+    {
+      "school": "Wisconsin",
+      "coach": "Shaun Snee"
+    },
+    {
+      "school": "California",
+      "coach": "Jason Novak"
+    },
+    {
+      "school": "Clemson",
+      "coach": "Dabo Swinney"
+    },
+    {
+      "school": "Georgia Tech",
+      "coach": "Georgia Tech"
+    },
+    {
+      "school": "Louisville",
+      "coach": "Mike Sirignano"
+    },
+    {
+      "school": "North Carolina",
+      "coach": "Brian Hess"
+    },
+    {
+      "school": "NC State",
+      "coach": "Brandon Howard"
+    },
+    {
+      "school": "Pittsburgh",
+      "coach": "Mark Lovat"
+    },
+    {
+      "school": "Syracuse",
+      "coach": "Former Syracuse"
+    },
+    {
+      "school": "Virginia",
+      "coach": "New Virginia"
+    },
+    {
+      "school": "Virginia Tech",
+      "coach": "The Hill"
+    },
+    {
+      "school": "Arizona",
+      "coach": "Tyler Owens"
+    },
+    {
+      "school": "Cincinnati",
+      "coach": "Cincinnati Football"
+    },
+    {
+      "school": "Colorado",
+      "coach": "Maurice Sims"
+    },
+    {
+      "school": "Houston",
+      "coach": "Houston Football"
+    },
+    {
+      "school": "Iowa State",
+      "coach": "Chris Campbell"
+    },
+    {
+      "school": "Kansas",
+      "coach": "Kansas Football Names"
+    },
+    {
+      "school": "Kansas State",
+      "coach": "State Promotes Ray"
+    },
+    {
+      "school": "Oklahoma",
+      "coach": "Head Coach Bobby"
+    },
+    {
+      "school": "Oklahoma State",
+      "coach": "Oklahoma State"
+    },
+    {
+      "school": "Oregon",
+      "coach": "Oregon Football"
+    },
+    {
+      "school": "Oregon State",
+      "coach": "Marco Candido"
+    },
+    {
+      "school": "Texas",
+      "coach": "Head Strength"
+    },
+    {
+      "school": "Texas Tech",
+      "coach": "Rusty Whitt"
+    },
+    {
+      "school": "UCF",
+      "coach": "Chris Dawson"
+    },
+    {
+      "school": "Utah",
+      "coach": "Baltimore Ravens"
+    },
+    {
+      "school": "West Virginia",
+      "coach": "West Virginia"
+    }
+  ]
+}
