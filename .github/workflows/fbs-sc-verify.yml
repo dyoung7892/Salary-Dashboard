@@ -112,6 +112,8 @@ jobs:
         run: |
           git config user.name  "fbs-sc-bot"
           git config user.email "actions@github.com"
+          git fetch origin main
+          git rebase origin/main
           git add data/deep_*.json docs/
           git diff --staged --quiet || git commit -m "Track B ${{ needs.gate.outputs.track_b }} $(date +%F)"
-          git fetch origin main && git rebase origin/main && git push
+          git push
