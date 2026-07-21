@@ -247,7 +247,7 @@ def main():
     args = parser.parse_args()
 
     rows = load_rows()
-    html = build_html(rows, args.confirmed_only)
+    html = build_html(rows, False)
 
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
