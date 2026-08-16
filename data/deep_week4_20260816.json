@@ -1,0 +1,104 @@
+{
+  "slice": "week4",
+  "date": "2026-08-16",
+  "confirmed": [],
+  "not_found": [],
+  "skipped_name_gate": [
+    {
+      "school": "Air Force",
+      "coach": "Air Force"
+    },
+    {
+      "school": "Boise State",
+      "coach": "Benjamin Hilgart"
+    },
+    {
+      "school": "Colorado State",
+      "coach": "Joey Guarascio"
+    },
+    {
+      "school": "Fresno State",
+      "coach": "Fresno State"
+    },
+    {
+      "school": "Hawaii",
+      "coach": "The Hill"
+    },
+    {
+      "school": "Nevada",
+      "coach": "Nevada Football"
+    },
+    {
+      "school": "New Mexico",
+      "coach": "New Mexico"
+    },
+    {
+      "school": "San Diego State",
+      "coach": "Inside San Diego"
+    },
+    {
+      "school": "San Jose State",
+      "coach": "San Jose State"
+    },
+    {
+      "school": "UNLV",
+      "coach": "Tanner Maher"
+    },
+    {
+      "school": "Utah State",
+      "coach": "Cody Cook"
+    },
+    {
+      "school": "Wyoming",
+      "coach": "Wyoming Football Game"
+    },
+    {
+      "school": "Army",
+      "coach": "Army Football Home"
+    },
+    {
+      "school": "Charlotte",
+      "coach": "Terrance Ware"
+    },
+    {
+      "school": "East Carolina",
+      "coach": "East Carolina"
+    },
+    {
+      "school": "Florida Atlantic",
+      "coach": "Florida Atlantic Football"
+    },
+    {
+      "school": "Memphis",
+      "coach": "Memphis Football"
+    },
+    {
+      "school": "Navy",
+      "coach": "Head Strength"
+    },
+    {
+      "school": "North Texas",
+      "coach": "Lewis Caralla"
+    },
+    {
+      "school": "South Florida",
+      "coach": "Related News"
+    },
+    {
+      "school": "Temple",
+      "coach": "Stephen Whitlock"
+    },
+    {
+      "school": "Tulsa",
+      "coach": "The University"
+    },
+    {
+      "school": "UAB",
+      "coach": "Football Record Book"
+    },
+    {
+      "school": "UTSA",
+      "coach": "Football Roster"
+    }
+  ]
+}
